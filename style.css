@@ -37,7 +37,6 @@ h1{
     top: 0;
     width: 350px;
     margin-top: 60px;
-    opcity:0.5;
     transform: translateX(-350px);
     transition: transform 250ms ease-in-out;
     background: #efefef;
@@ -129,7 +128,6 @@ form{
   border-radius:15px;
   padding:7px;
   margin-top:10pt;
- box-shadow: 0 2px 10px 0 #555;
 }
 .what h1{
   font-size:18pt;
