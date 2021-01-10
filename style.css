@@ -95,18 +95,13 @@ input#openSidebarMenu{
     transform: rotate(-135deg);
     margin-top: -9px;
 }
-img{
-  display:block;
-  margin:0 auto;
-  width:33.33pt;
-}
 div h1 {
   letter-spacing: 1px;
   font-size:20pt;
 }
 #credit{
-  min-width:80%;
   display:block;
+  Width:400px;
 }
 form{
   text-align:center;
@@ -147,7 +142,4 @@ form{
     padding-bottom:10px;
     color: grey;
     font-family: Arial, sans, "sans-serif";
-}
-.non{
-  visibility: hidden;
 }
