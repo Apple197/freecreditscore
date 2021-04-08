@@ -47,9 +47,9 @@ h1.net{
     position: fixed;
     left: 0;
     top: 0;
-    width: 350px;
+    width: 300px;
     margin-top: 60px;
-    transform: translateX(-350px);
+    transform: translateX(-300px);
     transition: transform 250ms ease-in-out;
     background: #fff;
 }
@@ -61,7 +61,7 @@ h1.net{
 }
 .menu li{
     border-bottom: 1px solid rgba(150, 25, 500, 0.10);
-    font-size: 20px;
+    font-size: 18px;
 }
 .menu li a{
     color: #000;
@@ -118,29 +118,24 @@ div h1 {
   font-size:20pt;
 }
 img {
-	width: 33.33px;
+	Max-width:100%;
 	display: block;
 	margin: 0 auto;
+        border-radius: 7px;
 	}
-#credit{
-  min-width:375px;
-  display:block;
-  margin: 0 auto;
-  border-radius: 7px;
-}
 form{
   text-align:center;
 }
 #buttom{
   background-color: rgb(74, 75, 205);
-  padding: 10px 80px;
+  padding: 10px 50px;
   border-radius: 5px;
   cursor: pointer;
   color: #ffffff;
   border: none;
   outline: none;
-  margin:34pt 0 20pt 0;
-  font-size:16pt;
+  margin:20pt 0 20pt 0;
+  font-size:14pt;
   font-weight: 700;
 }
 .what{
@@ -151,14 +146,14 @@ form{
   margin-top:10pt;
 }
 .what h1{
-  font-size:18pt;
+  font-size:16pt;
   font-weight: 700;
   letter-spacing:1px;
   padding:7pt;
   font-family: 'Lexend', sans-serif;
 }
 .what p{
-  font-size:14pt;
+  font-size:13pt;
   padding:7pt;
 font-family: 'Open Sans', sans-serif;
   font-weight: 600;
