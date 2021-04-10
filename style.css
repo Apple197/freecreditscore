@@ -227,9 +227,11 @@ p.bajaj a{
   padding: 7px 0 7px 10px;
   background-color: #efefef;
 }
-p.foot a{
+p.foot{
    Font-size: 9px;
    Color: grey;
    text-align: center;
+}
+.foot a{
    text-decoration: none;
 }
