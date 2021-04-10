@@ -176,14 +176,14 @@ div.brands{
 p.mi{
   width:150px;
   height:150px;
-  background: url("Images/Mi.png") no-repeat 50% 50% #f90;
+  background: url("Mi.png") no-repeat 50% 50% #f90;
   background-size: 105px 105px;
   border-radius: 6px;
 }
 p.paytm{
   width: 150px;
   height: 150px;
-  background: url("Images/Paytm.png") no-repeat 50% 50%;
+  background: url("Paytm.png") no-repeat 50% 50%;
   border-radius: 6px;
   border: 1px solid rgba(12, 22, 255, 0.2);
   background-size: contain;
@@ -191,7 +191,7 @@ p.paytm{
 p.bajaj{
   width: 320px;
   height:150px;
-  background: url("Images/Bajaj.png") no-repeat 50% 50% black;
+  background: url("Bajaj.png") no-repeat 50% 50% black;
   border-radius: 6px;
   background-size: contain;
 }
