@@ -31,7 +31,7 @@ h1.net{
 	font-size: 20pt;
    display: table-cell;
     vertical-align: middle;
-    background: linear-gradient(to right, rgba(50, 88, 255, 1) 50%, #ff9900 50%);
+    background: linear-gradient(to right, rgba(50, 88, 255, 1) 50%, rgba(50, 88, 255, 1)  50%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
      font-weight:700;
@@ -175,15 +175,15 @@ div.brands{
   justify-content: space-around;
 }
 p.mi{
-  width:140px;
-  height:140px;
+  width:150px;
+  height:150px;
   background: url("Mi.png") no-repeat 50% 50% #f90;
-  background-size: contain;
+  background-size: 105px 105px;
   border-radius: 6px;
 }
 p.paytm{
-  width: 140px;
-  height: 140px;
+  width: 150px;
+  height: 150px;
   background: url("Paytm.png") no-repeat 50% 50%;
   border-radius: 6px;
   border: 1px solid rgba(12, 22, 255, 0.2);
@@ -228,7 +228,7 @@ p.bajaj a{
   background-color: #efefef;
 }
 p.foot{
-   Font-size: 9px;
+   Font-size: 10px;
    text-align: center;
 }
 .foot a{
