@@ -207,7 +207,7 @@ p.paisa{
 .brands a:hover{
   background-color: black;
 }
-p.brands a{
+.brands a{
   background-color: rgba(82, 92, 255, 1);
   text-decoration: none;
   color: white;
