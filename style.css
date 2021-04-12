@@ -34,7 +34,7 @@ h1.net{
     background: linear-gradient(to right, rgba(50, 88, 255, 1) 50%, rgba(50, 88, 255, 1)  50%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-     font-weight:700;
+     font-weight:500;
 	}
 .main {
     margin: 80px 10px 10px 10pt;
@@ -190,42 +190,36 @@ p.paytm{
   background-size: contain;
 }
 p.bajaj{
-  width: 300px;
+  width: 150px;
   height:150px;
   background: url("Bajaj.png") no-repeat 50% 50% black;
   border-radius: 6px;
   background-size: contain;
 }
+p.paisa{
+   Width: 150px;
+   height: 150px;
+   Background: url("paisa.png") no-repeat 50% 50% white;
+   Border-radius: 6px;
+   Background-size: contain;
+   Box-shadow: 4px 4px 5px grey;
+}
 .brands a:hover{
   background-color: black;
 }
-p.paytm a{
+p.brands a{
   background-color: rgba(82, 92, 255, 1);
   text-decoration: none;
   color: white;
   padding:4px;
   border-radius:6px 0 0 0;
-}
-p.mi a{
-  background-color: rgba(82, 92, 255, 1);
-  text-decoration: none;
-  color: white;
-  padding:4px;
-  border-radius:6px 0 0 0;
-}
-p.bajaj a{
-  background-color: rgba(82, 92, 255, 1);
-  text-decoration: none;
-  color: white;
-  padding:4px;
-  border-radius:6px 0 0 0;
-  font-size: 13pt;
 }
 .statement{
   font-size: 15pt;
   border-left: solid 10px blue;
   padding: 7px 0 7px 10px;
   background-color: #efefef;
+  Border-radius: 3px;
 }
 p.foot{
    Font-size: 10px;
