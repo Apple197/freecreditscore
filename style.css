@@ -202,12 +202,12 @@ p.paisa{
    Background: url("paisa.png") no-repeat 50% 50% white;
    Border-radius: 6px;
    Background-size: contain;
-   Box-shadow: 4px 4px 5px grey;
+   Box-shadow: 4px 4px 10px grey;
 }
 .brands a:hover{
   background-color: black;
 }
-.brands a{
+div.brands a{
   background-color: rgba(82, 92, 255, 1);
   text-decoration: none;
   color: white;
